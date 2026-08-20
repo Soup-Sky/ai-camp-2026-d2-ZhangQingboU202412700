@@ -8,7 +8,8 @@ venv/
 .env.*
 !.env.example
 ~$*.pptx
-build_presentation.py
-assets/
-qa/
+~$*.docx
+*.inspect.ndjson
+defense-kit/node_modules/
+defense-kit/qa*/
 .DS_Store

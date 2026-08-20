@@ -1,5 +1,5 @@
 {
-  "milestone": "D2",
+  "milestone": "day-02",
   "team": "张清波组",
   "members": [
     "张清波 U202412700（组长）",
@@ -13,5 +13,5 @@
   "presentation": "presentation.pptx",
   "presentation_minutes": 3,
   "student_confirmed_no_secrets": true,
-  "real_data_status": "blocked_until_kaggle_archive_is_available"
+  "real_data_status": "passed_20000_per_class_real_evaluation_complete"
 }
